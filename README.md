@@ -3,6 +3,8 @@
 
 A lightweight text-based voice assistant built using Python, capable of responding to user commands through speech synthesis. It can greet you, tell the time/date, open websites, perform Google searches, and more — all in your terminal.
 
+![Preview Screenshot](./e-commerese.png) 
+
 🚀 Features
 
 ✅ Speech Output – Converts text to speech using pyttsx3.
