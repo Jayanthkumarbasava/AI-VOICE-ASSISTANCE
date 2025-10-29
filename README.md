@@ -3,7 +3,7 @@
 
 A lightweight text-based voice assistant built using Python, capable of responding to user commands through speech synthesis. It can greet you, tell the time/date, open websites, perform Google searches, and more — all in your terminal.
 
-![Preview Screenshot](./e-commerese.png) 
+![Preview Screenshot]([./e-commerese.png](https://github.com/Jayanthkumarbasava/AI-VOICE-ASSISTANCE/blob/main/Screenshot%202025-10-29%20161503.png?raw=true)) 
 
 🚀 Features
 
